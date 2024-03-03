@@ -17,7 +17,7 @@ type (
 
 const (
 	// Corr is the correction value to get the nearest result
-	Corr = 0.1094
+	Corr = 0.1059
 )
 
 // CountDistance between two coordinates
